@@ -1,2 +1,2 @@
-1.Sachin
-  1.ECE
+- Sachin
+  - ECE
